@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to Milford Hacks
+## About Us
+We are a group of students from Milford who participate in Hackathons and do our own coding.
 
-You can use the [editor on GitHub](https://github.com/MilfordHacks/MilfordHacks.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Our Projects
+### 2017 Hackathon
+Recently we completed a 2017 Hackathon, CincyHacks. Our project was an RPG endless dungeon crawler called [REN](https://milfordhacks.github.io/REN/index.html) and you can see our code [here](https://github.com/MilfordHacks/REN/).
+Our last changes prior to the end of the Hackathon can be seen [here](https://github.com/MilfordHacks/REN/tree/c105bc4ef59b2cff85f2fee2a1c01f9aa4f7257c)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MilfordHacks/MilfordHacks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Joining the Organization
+If you are a Milford student and wish to join, please contact me on [our discord](https://discord.gg/KXuSSpH)
